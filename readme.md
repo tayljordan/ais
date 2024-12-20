@@ -70,10 +70,6 @@ The dataset captures a broad range of vessel activity and includes fields such a
 - **Emissions Reporting**: Enable sustainability tracking by monitoring vessel activities.
 - **Data Science Projects**: Develop machine learning models for route prediction and anomaly detection.
 
-## Visualization
-
-The static map provides a global visualization of the AIS data for the 10,000 vessels. It can be found at `static/map.png` within this repository.
-
 ## Contribution
 
 If you'd like to contribute:
